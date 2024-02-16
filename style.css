@@ -1,0 +1,33 @@
+ body{
+    background-color: black;
+ }
+ .navar-one{
+    padding: 20px!important;
+margin-left: 5px;
+/* color: white; */
+ }
+
+ .h-one{
+    margin-right: 522px;
+    color: black;
+ }
+
+ .icon{
+    margin-right: 20px;
+    padding: 5px;
+ }
+
+ .icon-th{
+    margin-left: 15px;
+ }
+
+ .h-two{
+    padding: 40px;
+ }
+
+ .card-group{
+    width: 800px;
+    margin-left: 200px;
+    height: 500px;
+    border: none;
+ }
